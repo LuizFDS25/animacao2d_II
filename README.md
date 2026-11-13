@@ -29,7 +29,7 @@ O personagem foi pensado com a silhueta mais redonda, com os traços mais defini
 
 ## Requisitos Técnicos
 
-|Iten|Pedido|
+|Item|Pedido|
 |---|---|
 |Tamanho|256x256|
 |FPS|24|

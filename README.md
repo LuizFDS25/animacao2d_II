@@ -23,3 +23,9 @@ O personagem foi pensado com a silhueta mais redonda, com os traços mais defini
 |Run|?|Sim|Saltitando com os braços balançando para frente e para trás|
 |Idle1|?|Sim|Respiração lenta com braços em repouso no chão|
 |Idle2|?|Não|O personagem cai no sono em pé e depois acorda no susto voltando para idle1|
+|Attack|?|Não|Utiliza os dois braços para empurrar/bater. Joga os braço para trás e volta com impulso|
+|Damage|?|Não|Contorce com dor para frente mudando de expressão facial| 
+|Die|?|Não|O corpo do personagem some como explosão de fumaça, o capacete cai no chão enquanto as estrelas dos olhos somem|
+
+## Requisitos Técnicos
+

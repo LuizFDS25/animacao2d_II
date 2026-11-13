@@ -29,3 +29,17 @@ O personagem foi pensado com a silhueta mais redonda, com os traços mais defini
 
 ## Requisitos Técnicos
 
+|Iten|Pedido|
+|---|---|
+|Tamanho|256x256|
+|FPS|24|
+|Formato|SpriteSheet|
+|Nomes|Ação_01.png|
+
+## Entregas
+- Spritesheet de todas as ações.
+- GIFs animados de cada animação.
+- Arquivos originais de cada animação no formato do Krita (.kra).
+- Implementação das animações na Unity.
+- Repositório no GitHub com o nome animacao2DII, contendo toda a documentação e os arquivos do projeto.
+
